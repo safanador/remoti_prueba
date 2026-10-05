@@ -15,3 +15,9 @@
 1. domain se encarga unicamente de la definicion de contratos
 2. data se encarga de la implementacion de repositorios, modelo de datos con base a las entidades definidas.
 3. Prentation se encarga unicamente del manejo de estados y el renderizado de la UI.
+
+# Por falta de tiempo la capa de presentation queda inconclusa, falta la vista de detalle y la vista en desktop.
+
+# Faltaria Manjear los errores al cargar y el reintento al fallar.
+
+# Si tuviese mas tiempo corregiria errores, refinaria las vistas
