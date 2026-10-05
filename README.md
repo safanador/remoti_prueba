@@ -10,6 +10,7 @@
 2. Familirialidad trabajando con riverpod
 3. Curva corta de aprendizaje
 4. Permite gestionar estado complejos
+5. Se planteo utilizar Provider rapida implementacion, sin embargo está deprecated y sus creadores recomiendan usar directamente Riverpod
 
 # El proyecto se separo en features, donde cada feature tiene una separacion clara en las clases que definen el contrato de la feature:
 1. domain se encarga unicamente de la definicion de contratos
